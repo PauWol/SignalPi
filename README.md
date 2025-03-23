@@ -1,6 +1,8 @@
 # **SignalPi** 🚀  
 SignalPi is a Raspberry Pi-based Wi-Fi hacking, network analysis, and management tool. It provides both advanced pentesting capabilities and traditional router/repeater functions, making it a versatile solution for security experts and network enthusiasts.
 
+⚠️ **Note:** SignalOS is still in early development. The bare kernel is up and running, but many features are still being implemented.
+
 ## **Core Features** 🛠️  
 
 - 🖥 **SignalOS**  
